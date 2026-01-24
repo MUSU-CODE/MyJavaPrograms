@@ -13,6 +13,9 @@ public class WAP_TO_FIND_PERIMETER_OF_CIRCLE {
 		double perimeter=2*Math.PI*radius;//double used bcoz pi is decimal value
 		//in java there a predefined Math class there where PI is a predefined constant
 		System.out.println("Circle perimeter is "+perimeter);
+		System.out.println("Circle perimeter is "+perimeter);
+
+		
 	}
 
 }
